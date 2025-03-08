@@ -16,7 +16,7 @@
 
 # Z.R.C V2
 - Développement commencé en 2020 et terminé en 2024, avec deux autres personnes
-- Développement mis en pause en 2022 pour favoriser celui d'A.R.C.H
+- Développement terminé
 
 [**Lien vers la version en ligne**](https://www.roblox.com/games/7096759234)
 > La date de création est différente car le jeu a été transférée dans un groupe
