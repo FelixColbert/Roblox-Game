@@ -1,5 +1,3 @@
-> **_INFO:_** Vous pouvez voir dans le dossier [./img](./img) des images en plus de celles affichées dans ce document.
-
 # A.R.C.H
 - Développement commencé en 2022, en solo
 - Toujours en développement
